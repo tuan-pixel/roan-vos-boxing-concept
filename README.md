@@ -1,10 +1,10 @@
-# ROAN VOS — persoonlijk boksmerk
+# TY TRINH — persoonlijk boksmerk
 
 Werkende responsive website-mockup voor een fictieve professionele bokser.
 
 ## Merkconcept
 
-**Naam:** ROAN VOS  
+**Naam:** TY TRINH
 **Positionering:** disciplined challenger, gebouwd voor internationale groei  
 **Merkbelofte:** Built Under Pressure  
 **Doelgroepen:** sponsors, promotors, media, sportscholen, fans en commerciële partners
